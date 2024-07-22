@@ -6,7 +6,7 @@ LLaMA（Language Learning from Multiview Annotations） 是一个用于自然语
 
 aistudio链接为https://aistudio.baidu.com/projectdetail/8170849?sUid=5563173&shared=1&ts=1721317425138
 
-（有更详细的讲解与代码）
+（有更详细的讲解与代码）现在文件中有model.safetensors和optimizer.pt由于文件较大无法上传
 
 参考数据集来源链接https://huggingface.co/datasets/noanabeshima/TinyStoriesV2
 
